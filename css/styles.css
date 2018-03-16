@@ -1,0 +1,22 @@
+
+
+h1{
+  color:solid black;
+  text-align:center;
+  font-style:italic;
+}
+#line1 {
+  font-size: 20px;
+}
+h2{
+  color:red;
+  text-align:left;
+  font-style:oblique;
+  font-size:20px;
+}
+.line2{
+  color:blue;
+  text-align:left;
+  font-style: italic;
+  
+}

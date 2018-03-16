@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <link href="css/styles.css" rel="stylesheet" type="text/css" media="all">
+<title>FIRST WEEK
+</title>
+</head>
+<body>
+<h1>WENDY MARY</h1>
+<p id="line1">I am Godfearing , humble and patient.Iam also a future developer in the world of IT.</p>
+<h2>About me;</h2>
+<ul>
+<li  class="line2">Background in education</li>
+<h3>I schooled at Nyakach Girls High School<h3>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
