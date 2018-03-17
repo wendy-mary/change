@@ -9,9 +9,45 @@
 <h1>WENDY MARY</h1>
 <p id="line1">I am Godfearing , humble and patient.Iam also a future developer in the world of IT.</p>
 <h2>About me;</h2>
+
+      <p  class="line2">Background in education</p>
+      <ul>
+     <li>A student at Moringa Prep</li>
+    <li>I schooled at Nyakach Girls High School form1 -form4</li>
+    <li>Went to St Andrew Kaggwa class 6-8 </li>
+    <li>Went to Thorn Grove Academy  class 1-5 </li>
+</ul>
+<p class="line2">Background job experience</p>
+
 <ul>
-<li  class="line2">Background in education</li>
-<h3>I schooled at Nyakach Girls High School<h3>
+
+    <li>not yet worked </li>
+</ul>
+      <p class="line2">Why join programming?</p>
+      <ul>
+     <li>I believe its enjoyable to practice the knowledge once i know it.   </li>
+     <li>I have passion in it.</li>
+      <li>I want to be able to make some funny websites that are also attractive</li>
+</ul>
+<p class="line2">Interests</p>
+<ul>
+    <li> researching in the websites</li>
+</ul>
+
+<p class="line2">Hobbies</p>
+
+
+<ul>
+
+     <li> riding bicycle</li>
+     <li> watching soap operas</li>
+     <li>listening to music</li>
+</ul>
+<p class="line2">skills </p>
+<ul>
+     <li> css</li>
+     <li> Git commands</li>
+     <li>environment conservation  </li>
 </ul>
 
 
