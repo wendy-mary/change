@@ -1,46 +1,36 @@
-img{
-  float: right;
-  width: 200;
-  height: 300;
-}
+
 
 h1{
   color:solid black;
   text-align:center;
   font-style:italic;
 }
+
 #line1 {
   font-size: 20px;
 }
+
 h2{
   color:red;
   text-align:left;
   font-style:oblique;
   font-size:20px;
 }
+
 .line2{
   color:blue;
   text-align:left;
   font-style: italic;
 }
+
 .lists{
   color: gray;
 }
 
-div.textbox{
-  margin:6px;}
 
 
 
 
-
-
-
-
-
-.clear{
-  clear: both;
-}
 .lists{
   font-size: 20px;
   font-family:  sans-serif;
@@ -56,22 +46,16 @@ float: right;
   float: right;
 }
 
-.test-box{
-  text-align: left;
-  width: auto;
-  height: auto;
+ #text-box {
+   border: 10px solid red;
+   padding: 2px solid blue;
+   margin: 5px solid orange;
+   background-color: yellow;
 
 }
-.test-box {
-
-  border: 2px solid red;
-  padding: 2px solid blue;
-  margin: 2px solid orange;
-  background-color: yellow;
-}
-.test-box {
-  border-left: 2px solid red;
-  border-right: 2px ;
-  border-top: 4px ;
-  border-bottom: 4px solid black;
+ #text-box {
+   border-left: 2px solid red;
+   border-right: 2px ;
+   border-top: 4px ;
+   border-bottom: 4px solid black;
 }
