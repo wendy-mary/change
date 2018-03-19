@@ -1,5 +1,5 @@
 body{
-  
+
   background-color: #F60B79;
 }
 
@@ -95,7 +95,7 @@ float: right;
   border-bottom: 4px solid black;
   float: left;
 }
-.box4 {
+.box5 {
   border-left: 2px solid red;
   border-right: 2px ;
   border-top: 4px ;
@@ -127,7 +127,7 @@ float: right;
   margin: 5px solid orange;
   background-color: yellow;
 }
-.box4 {
+.box5 {
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
