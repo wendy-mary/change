@@ -1,6 +1,7 @@
+
 body{
 
-  background-color: #F60B79;
+  background-color: #F0B27A;
 }
 
 .content{
@@ -8,7 +9,6 @@ body{
   text-align: left;
 }
 .content3{
-  margin-top: 10px;
 }
 
 h1{
@@ -62,7 +62,7 @@ float: right;
    border: 10px solid red;
    padding: 2px solid blue;
    margin: 5px solid orange;
-   background-color: yellow;
+   background-color: #48C9B0;
    float: left;
 
 }
@@ -71,7 +71,7 @@ float: right;
    border-right: 2px ;
    border-top: 2px ;
    border-bottom: 2px solid black;
-   background-color: yellow;
+   background-color: #48C9B0;
    float: left;
 }
 .box1 {
@@ -106,30 +106,30 @@ float: right;
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
-  background-color: yellow;
+  background-color: #48C9B0;
 
 }
 .box2 {
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
-  background-color: yellow;
+  background-color:#48C9B0;
 }
 .box3 {
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
-  background-color: yellow;
+  background-color: #48C9B0;
 }
 .box4 {
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
-  background-color: yellow;
+  background-color: #48C9B0;
 }
 .box5 {
   border: 10px solid red;
   padding: 2px solid blue;
   margin: 5px solid orange;
-  background-color: yellow;
+  background-color:#48C9B0;
 }

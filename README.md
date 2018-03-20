@@ -2,9 +2,9 @@
 ####
 #### By **Wendy Mary**
 ## Description
-Creates
-## you must have a git up account 
-* git clone
+This website is all about mysel
+##
+*
 * Open my-first-week from your browser
 
 ### License
